@@ -1,0 +1,19 @@
+.categories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
+
+.category {
+    padding: 40px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    border: solid #000;
+    border-width: 1px;
+    margin: 10px 10px;
+    border-radius: 15%;
+}
+
+.category>a {
+    text-decoration: none;
+}

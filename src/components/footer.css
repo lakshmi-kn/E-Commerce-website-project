@@ -1,0 +1,16 @@
+.footer {
+    background-color: #000000; 
+    padding: 20px 0;
+    text-align: center; 
+    width: 100%;
+    transform: translateY(116%);
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto; 
+  }
+  
+  .text-center {
+    color: #ffffff; 
+  }
